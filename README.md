@@ -1,6 +1,6 @@
 # Dayz-Leaderboard-Web-Developer
 
-//@Siegmund developer - 2019.
+//@Siegmund website developer - 2019.
 
 //Mod Developer: @QuickZ.
 

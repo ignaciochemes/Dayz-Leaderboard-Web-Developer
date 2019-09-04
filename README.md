@@ -9,7 +9,7 @@
 
 Intructions:
 
-1- You need a mysql-.json folder intermediate or just enter the json manually in Database
+1- You need a mysql-.json folder intermediate or just enter the json manually in Database (script.py)
 
 2- Start Xampp or the program you use to run the database and the web
 
@@ -17,6 +17,10 @@ Intructions:
 
 4- Huala... already have your player database
 
+5-Always remember to have your script running
+
 
 
 Note: In my case I use a python-based broker. But you can find other examples based on php.
+
+enjoy!

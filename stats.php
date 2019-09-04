@@ -12,7 +12,7 @@
            <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>  
            <script src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap.min.js"></script>            
            <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css" /> 
-		   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
       </head>  
       <body>  
@@ -24,14 +24,14 @@
                      <table id="employee_data" class="table table-striped table-bordered">  
                           <thead>  
                                <tr> 
-									<td>Nombre</td>
+				    <td>Nombre</td>
                                     <td>Z Matados</td>
                                     <td>Animales Matados</td>   
                                     <td>Distancia Recorrida</td>  
                                     <td>Suicidios</td>
-									<td>Muertes Por Z</td>
-									<td>Muertes Nat.</td>
-									<td>Max T Sobrev.</td> 
+				    <td>Muertes Por Z</td>
+				    <td>Muertes Nat.</td>
+				    <td>Max T Sobrev.</td> 
                                </tr>  
                           </thead>  
                           <?php  
@@ -39,14 +39,14 @@
                           {  
                                echo '  
                                <tr>  
-									<td>'.$row["name"].'</td>
+				    <td>'.$row["name"].'</td>
                                     <td>'.$row["zKilled"].'</td>
                                     <td>'.$row["animalsKilled"].'</td>  
                                     <td>'.$row["distTrav"].'</td>  
                                     <td>'.$row["suicideCount"].'</td>
-									<td>'.$row["deathsToZCount"].'</td>
-									<td>'.$row["deathsToNaturalCauseCount"].'</td>
-									<td>'.$row["timeSurvived"].'</td>
+				    <td>'.$row["deathsToZCount"].'</td>
+				    <td>'.$row["deathsToNaturalCauseCount"].'</td>
+				    <td>'.$row["timeSurvived"].'</td>
                                </tr>  
                                ';  
                           }  

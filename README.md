@@ -32,7 +32,9 @@ They have to have some web mounted later prepared to accommodate the files withi
 
 Note: In my case I use a python-based broker. But you can find other examples based on php and Bootstrap4
 
+
 Points to consider:
+
 -The .json files are located in the "Profiles" folder of the dayzserver (or the name given to it)
 -The broker with the "script.py" database makes modifications every 60 seconds in case the file has changed.
 -The "script.py" does NOT replace the data in the database, it only updates them if they change.

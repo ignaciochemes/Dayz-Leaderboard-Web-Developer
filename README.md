@@ -9,9 +9,13 @@
 /// YOU NEED PYTHON BE INSTALLED
 /// OPEN CMD OR WINDOWS POWER SHELL AND PUT: ```py -m pip install mysql-connector```
 
+/// ADD python "PATH" to your windows path for execute ```pip``` command. Like this...
+
+https://i.imgur.com/qVqc34E.png
 
 
-Intructions:
+
+/Intructions:
 
 1- You need a mysql-.json folder intermediate or just enter the json manually in Database (script.py)
 

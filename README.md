@@ -6,17 +6,22 @@
 
 
 
-/// YOU NEED PYTHON BE INSTALLED
-/// OPEN CMD OR WINDOWS POWER SHELL AND PUT: ```py -m pip install mysql-connector```
+## YOU NEED PYTHON BE INSTALLED
+Download: https://www.python.org/
 
-/// ADD python "PATH" to your windows path for execute ```pip``` command. Like this...
-
-
+**This is _extremely_ important**
+**Install python and check your windows PATH folder. You need install python PATH**
+Like This:
 <img src="https://i.imgur.com/qVqc34E.png" />
 
+## NEXT
+**Exectute the following command*** 
+```py -m pip install mysql-connector``` 
+if you don't have python path installed this command will not work
 
 
-/Intructions:
+
+# Intructions for Leaderboard instalation:
 
 1- You need a mysql-.json folder intermediate or just enter the json manually in Database (script.py)
 
@@ -39,13 +44,13 @@ They have to have some web mounted later prepared to accommodate the files withi
 
 
 
-Note: In my case I use a python-based broker. But you can find other examples based on php and Bootstrap4
+## Note: In my case I use a python-based broker. But you can find other examples based on php and Bootstrap4
 
 
-Points to consider:
+### Points to consider:
 
-//The .json files are located in the "Profiles" folder of the dayzserver (or the name given to it)
-//The broker with the "script.py" database makes modifications every 60 seconds in case the file has changed.
-//The "script.py" does NOT replace the data in the database, it only updates them if they change.
+The .json files are located in the "Profiles" folder of the dayzserver (or the name given to it)
+The broker with the "script.py" database makes modifications every 60 seconds in case the file has changed.
+The "script.py" does NOT replace the data in the database, it only updates them if they change.
 
 enjoy!

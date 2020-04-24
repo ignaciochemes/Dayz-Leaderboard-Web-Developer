@@ -11,7 +11,8 @@
 
 /// ADD python "PATH" to your windows path for execute ```pip``` command. Like this...
 
-https://i.imgur.com/qVqc34E.png
+
+<img src="https://i.imgur.com/qVqc34E.png" />
 
 
 

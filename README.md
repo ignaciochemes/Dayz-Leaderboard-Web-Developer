@@ -6,6 +6,10 @@
 
 
 
+/// YOU NEED PYTHON BE INSTALLED
+/// OPEN CMD OR WINDOWS POWER SHELL AND PUT: ```py -m pip install mysql-connector```
+
+
 
 Intructions:
 

@@ -42,7 +42,11 @@ They have to have some web mounted later prepared to accommodate the files withi
 
 6-Always remember to have your script running
 
+<img src="https://i.imgur.com/tI0iXNe.png" />
 
+<img src="https://i.imgur.com/hRALXLJ.png" />
+
+<img src="https://i.imgur.com/BoI3TOL.png" />
 
 ## Note: In my case I use a python-based broker. But you can find other examples based on php and Bootstrap4
 
